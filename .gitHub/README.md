@@ -11,7 +11,7 @@
 
 
 
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/DAXXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
   <img src="https://telegra.ph/file/1aab3e5edf0611a7ef4cb.jpg">
